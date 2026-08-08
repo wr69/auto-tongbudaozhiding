@@ -1,0 +1,4 @@
+2026/02/19 16:00:22 main.go:48: https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt 无法获取网站内容: 429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
+2026/02/19 16:00:22 main.go:48: https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/http.txt 无法获取网站内容: 429: Too Many Requests
+For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https://docs.github.com/en/site-policy/github-terms/github-terms-of-service).
